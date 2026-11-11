@@ -3,7 +3,7 @@ setlocal
 title Setup Ghigi
 
 rem === Da aggiornare a ogni release (deve coincidere col tag GitHub) ===
-set "VERSION=v1.1.0"
+set "VERSION=v1.2.0"
 set "REPO=SIJ82/minecraft-setup"
 set "ASSET=setup.bat"
 
