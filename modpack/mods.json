@@ -100,6 +100,11 @@
     "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar"
   },
   {
+    "name": "fabrictailor-2.10.0.jar",
+    "sha1": "6a0f3ac6ecbc452eee1b3bc1495e4e5ba7b0e0a2",
+    "url": "https://cdn.modrinth.com/data/g8w1NapE/versions/5uXKmDJ0/fabrictailor-2.10.0.jar"
+  },
+  {
     "name": "fastquit-3.1.5+mc26.2.jar",
     "sha1": "0977eb0a35e1a1602bc9306ddbbb9177734131f0",
     "url": "https://cdn.modrinth.com/data/x1hIzbuY/versions/ZZ5dfboC/fastquit-3.1.5%2Bmc26.2.jar"
