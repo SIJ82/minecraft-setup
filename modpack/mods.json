@@ -95,6 +95,16 @@
     "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/RNDvrMAd/e4mc-fabric-6.2.3-modern.jar"
   },
   {
+    "name": "EasyAnvils-v26.2.3-mc26.2.x-Fabric.jar",
+    "sha1": "6bd859cd12d3db25bdb9bb1633efec057f348d9b",
+    "url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/LXFiKoIu/EasyAnvils-v26.2.3-mc26.2.x-Fabric.jar"
+  },
+  {
+    "name": "EasyMagic-v26.2.0-mc26.2.x-Fabric.jar",
+    "sha1": "3c4a18c4115923c6639edf2b17363b2203e20001",
+    "url": "https://cdn.modrinth.com/data/9hx3AbJM/versions/5CL4B48Y/EasyMagic-v26.2.0-mc26.2.x-Fabric.jar"
+  },
+  {
     "name": "emotecraft-for-MC26.2-3.4.0-b.build.178.jar",
     "sha1": "fe526629a0578b84c01bb298991d861d55016de8",
     "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/w8IkxIFf/emotecraft-for-MC26.2-3.4.0-b.build.178.jar"
@@ -288,6 +298,11 @@
     "name": "puzzle-fabric-2.3.1+26.2.jar",
     "sha1": "17888efe8c7f9f930f91696cfb25b1317fc4910f",
     "url": "https://cdn.modrinth.com/data/3IuO68q1/versions/O8oBjnDH/puzzle-fabric-2.3.1%2B26.2.jar"
+  },
+  {
+    "name": "puzzleslib-v26.2.5-mc26.2.x+fabric.jar",
+    "sha1": "da3af4c38ee227d16f4426eab08cb943c9b3f15d",
+    "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/TXPuVSH3/puzzleslib-v26.2.5-mc26.2.x%2Bfabric.jar"
   },
   {
     "name": "reeses-sodium-options-fabric-2.2.4+mc26.2.jar",
