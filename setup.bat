@@ -70,6 +70,19 @@ call :checkjava || (
 echo.
 echo [OK] Tutto pronto. Se un terminale era gia' aperto, riaprilo per vedere il nuovo PATH.
 
+rem --- Modpack: scarica/aggiorna il repo con git, poi allinea le mod dell'istanza ---
+set "PACKDIR=%LOCALAPPDATA%\minecraft-setup"
+set "INSTANCE=%APPDATA%\PolyMC\instances\Ghigi"
+echo Aggiorno il modpack...
+if not exist "%PACKDIR%\.git" git clone -q --depth 1 https://github.com/%REPO%.git "%PACKDIR%"
+git -C "%PACKDIR%" fetch -q --depth 1 origin main && git -C "%PACKDIR%" reset -q --hard origin/main || echo [!] Impossibile aggiornare il modpack, uso la copia locale.
+powershell -NoProfile -ExecutionPolicy Bypass -File "%PACKDIR%\modpack\sync.ps1" "%INSTANCE%"
+if errorlevel 1 (
+    echo [X] Aggiornamento del modpack fallito.
+    goto :end
+)
+echo [OK] Modpack aggiornato.
+
 call :findpoly || (
     echo [X] polymc.exe non trovato.
     goto :end

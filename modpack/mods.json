@@ -1,0 +1,302 @@
+[
+  {
+    "name": "animatica-0.6.3+26.2.jar",
+    "sha1": "efca21138f620b0c103165b238e93a4ff9daccf0",
+    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/SjuTFuhz/animatica-0.6.3%2B26.2.jar"
+  },
+  {
+    "name": "bbe-fabric-1.3.9+mc26.2-mod.jar",
+    "sha1": "5702ea1a0017c1d8c5da399a4ff333aef9b9720f",
+    "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/n5mL5flA/bbe-fabric-1.3.9%2Bmc26.2-mod.jar"
+  },
+  {
+    "name": "BetterGrassify-1.8.7+fabric.26.2.jar",
+    "sha1": "0f4a890d07402280686a518579fa9fa02309e315",
+    "url": "https://cdn.modrinth.com/data/m5T5xmUy/versions/r4yqxYQl/BetterGrassify-1.8.7%2Bfabric.26.2.jar"
+  },
+  {
+    "name": "bettermounthud-1.3.1.jar",
+    "sha1": "f86040d5010c7aad1c677c7a7fefe52d3b386abd",
+    "url": "https://cdn.modrinth.com/data/kqJFAPU9/versions/M3Fe5t0L/bettermounthud-1.3.1.jar"
+  },
+  {
+    "name": "cape-provider-5.5.1.jar",
+    "sha1": "7a105c6ecf9e6404ee9213f4a83f5db4a893fa47",
+    "url": "https://cdn.modrinth.com/data/orXAsira/versions/Puw7YiUS/cape-provider-5.5.1.jar"
+  },
+  {
+    "name": "cloth-config-26.2.155.jar",
+    "sha1": "babcf16dbd15e09d326e21ffe85ab3f7d843ef9e",
+    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar"
+  },
+  {
+    "name": "ConfigManager-fabric-26.1_26.2-1.1.3.jar",
+    "sha1": "ce2d31f3cb6815fe83c742326430af8dd9f6a479",
+    "url": "https://cdn.modrinth.com/data/jlNms3Jp/versions/W4C08wBC/ConfigManager-fabric-26.1_26.2-1.1.3.jar"
+  },
+  {
+    "name": "continuity-3.0.1+26.2.jar",
+    "sha1": "8fa8bc108e84158b0828a4aa59bf906d31676eec",
+    "url": "https://cdn.modrinth.com/data/1IjD5062/versions/mgUN5Xz2/continuity-3.0.1%2B26.2.jar"
+  },
+  {
+    "name": "controlify-3.5.3+mc26.2-universal.jar",
+    "sha1": "52a9beb9f9782690f1170f2e72e1764fe3f82199",
+    "url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/VDw4mGkG/controlify-3.5.3%2Bmc26.2-universal.jar"
+  },
+  {
+    "name": "CrashAssistant-fabric-26.2-26.3-1.11.14.jar",
+    "sha1": "dea53a10e5fbfaacd18e212a0eb0fe328b3e9467",
+    "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/alR3tamq/CrashAssistant-fabric-26.2-26.3-1.11.14.jar"
+  },
+  {
+    "name": "cwb-5.0.0+26.2.jar",
+    "sha1": "6114afaa2b54bdc79bf8dba1630ac1221f02522b",
+    "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/ZM0HUAhK/cwb-5.0.0%2B26.2.jar"
+  },
+  {
+    "name": "debugify-26.2.0.1.jar",
+    "sha1": "6c21e7639c4f6c1a9587dd82f31ff2811289ef87",
+    "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/p9lCmVmH/debugify-26.2.0.1.jar"
+  },
+  {
+    "name": "dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
+    "sha1": "e8cd9e4fbc6d42091faffc873b0801f1189ed6a5",
+    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pC2JjFw1/dynamic-fps-3.11.9%2Bminecraft-26.2.0-fabric.jar"
+  },
+  {
+    "name": "e4mc-fabric-6.2.3-modern.jar",
+    "sha1": "78a4feb50b8cb67a80ca172a56e85c9cd79d9fbb",
+    "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/RNDvrMAd/e4mc-fabric-6.2.3-modern.jar"
+  },
+  {
+    "name": "entity_model_features-3.3.12-26.2-fabric.jar",
+    "sha1": "34747e7aaf3b0b9f5b9edc3b9fd57fa0b545b531",
+    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/hyDf8pNd/entity_model_features-3.3.12-26.2-fabric.jar"
+  },
+  {
+    "name": "entity_texture_features-7.2.6-26.2-fabric.jar",
+    "sha1": "83e1ae7d1fdd64ce3dee8cd25c1cdee6b6d6570d",
+    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/p667cMa5/entity_texture_features-7.2.6-26.2-fabric.jar"
+  },
+  {
+    "name": "entityculling-fabric-1.11.3-mc26.2.jar",
+    "sha1": "a2210d12bdeac78daf7bb2fdc6b5d85448642cdf",
+    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/uXe0pIaz/entityculling-fabric-1.11.3-mc26.2.jar"
+  },
+  {
+    "name": "fabric-api-0.161.0+26.2.jar",
+    "sha1": "332da34ebb72171e603a0c538de17f4c54ea9e29",
+    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/ewUK83HI/fabric-api-0.161.0%2B26.2.jar"
+  },
+  {
+    "name": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+    "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
+    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar"
+  },
+  {
+    "name": "fastquit-3.1.5+mc26.2.jar",
+    "sha1": "0977eb0a35e1a1602bc9306ddbbb9177734131f0",
+    "url": "https://cdn.modrinth.com/data/x1hIzbuY/versions/ZZ5dfboC/fastquit-3.1.5%2Bmc26.2.jar"
+  },
+  {
+    "name": "ferritecore-9.0.0-fabric.jar",
+    "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
+  },
+  {
+    "name": "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+    "sha1": "a4083de0d8e0c19b993d21f7a576216efb5ceb23",
+    "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/rSd3GiG8/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar"
+  },
+  {
+    "name": "ImmediatelyFast-Fabric-1.16.5+26.2.jar",
+    "sha1": "0286260261591fe77ba0d332d5d5a2d2e868c2c6",
+    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/pMWERcSu/ImmediatelyFast-Fabric-1.16.5%2B26.2.jar"
+  },
+  {
+    "name": "iris-fabric-1.11.4+mc26.2.jar",
+    "sha1": "bd0b24731a94b8fe164531e6345718d30ab08ed2",
+    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/gxZWWnKH/iris-fabric-1.11.4%2Bmc26.2.jar"
+  },
+  {
+    "name": "Ixeris-4.6.11-26.2-fabric.jar",
+    "sha1": "4163028d374ac1674daed4e317915445faf97c5a",
+    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/qXHd9Vb4/Ixeris-4.6.11%2B26.2-fabric.jar"
+  },
+  {
+    "name": "Jade-mc26.2-Fabric-26.2.11.jar",
+    "sha1": "101668371882c3413531025373f5d91b63e26dd0",
+    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/ue8CO97w/Jade-mc26.2-Fabric-26.2.11.jar"
+  },
+  {
+    "name": "jei-26.2-fabric-30.48.0.244.jar",
+    "sha1": "ab2c982647d1ac94770c235d10d6b10a4f98a3ed",
+    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/j62WSkzi/jei-26.2-fabric-30.48.0.244.jar"
+  },
+  {
+    "name": "jeitrades-fabric-26.2-1.2.2.jar",
+    "sha1": "8afbd50b4f0563122666ff20b03b933ba2a28dc4",
+    "url": "https://cdn.modrinth.com/data/4SbUVStJ/versions/pYei51hX/jeitrades-fabric-26.2-1.2.2.jar"
+  },
+  {
+    "name": "jeiworldgen-fabric-26.2-1.4.5.jar",
+    "sha1": "81dea27f45f05cfe0232982c25785269b8958af0",
+    "url": "https://cdn.modrinth.com/data/YYrsrQ6q/versions/bO8tgBCi/jeiworldgen-fabric-26.2-1.4.5.jar"
+  },
+  {
+    "name": "justenoughbreeding-fabric-26.2-3.4.1.jar",
+    "sha1": "5dc88a7757831d28f3a3945474d95a9cccde7ac8",
+    "url": "https://cdn.modrinth.com/data/9Pk89J3g/versions/3DG2k786/justenoughbreeding-fabric-26.2-3.4.1.jar"
+  },
+  {
+    "name": "JustEnoughProfessions-fabric-26.2-12.0.0.jar",
+    "sha1": "c6f76f5762867ffb8d49c136ce6e0621843eae38",
+    "url": "https://cdn.modrinth.com/data/kB56GtWA/versions/G7JNaL0M/JustEnoughProfessions-fabric-26.2-12.0.0.jar"
+  },
+  {
+    "name": "JustEnoughResources-Fabric-26.2-1.11.0.44.jar",
+    "sha1": "b1d3c472dd21160effc1cb49e98de16efd4e95e0",
+    "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/ll8IqkDa/JustEnoughResources-Fabric-26.2-1.11.0.44.jar"
+  },
+  {
+    "name": "lambdynamiclights-4.12.4+26.2.jar",
+    "sha1": "c842011792dbaf95bb6243df1ad7f39c576f944d",
+    "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/XVsaQXSm/lambdynamiclights-4.12.4%2B26.2.jar"
+  },
+  {
+    "name": "language-reload-1.7.8+26.2.jar",
+    "sha1": "3d5a85a0804aef395d3dffb0ee69acf634f4464c",
+    "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/doGx6rSt/language-reload-1.7.8%2B26.2.jar"
+  },
+  {
+    "name": "lithium-fabric-0.25.3+mc26.2.jar",
+    "sha1": "435ad0289209bb72195e7a423756a03f5dfa5a9a",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/f7vZ0VWU/lithium-fabric-0.25.3%2Bmc26.2.jar"
+  },
+  {
+    "name": "main-menu-credits-1.4.0+26.2-universal.jar",
+    "sha1": "d73b75eefb787769a965166793e0c9ed58e6de85",
+    "url": "https://cdn.modrinth.com/data/qJDfP7WN/versions/swCvQBI6/main-menu-credits-1.4.0%2B26.2-universal.jar"
+  },
+  {
+    "name": "mixintrace-1.0-26.1-universal.jar",
+    "sha1": "3b270bf23ffec81086c23a78dd473608640b0a96",
+    "url": "https://cdn.modrinth.com/data/Ok6FyXJ9/versions/j3SeQVjR/mixintrace-1.0-26.1-universal.jar"
+  },
+  {
+    "name": "modernfix-5.27.19-build.2.jar",
+    "sha1": "a14d2ba0fd0d56d12d48bb9f1c44fd3d345bf5e2",
+    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/50uUra83/modernfix-5.27.19-build.2.jar"
+  },
+  {
+    "name": "modmenu-20.0.3.jar",
+    "sha1": "9fc381627b471c18d67156e846228f51ff2ea5b4",
+    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/iRo7AZXf/modmenu-20.0.3.jar"
+  },
+  {
+    "name": "morechathistory-2.0.0.jar",
+    "sha1": "6ce97845f93090dd7556b6e64bb7d63e126b83b4",
+    "url": "https://cdn.modrinth.com/data/8qkXwOnk/versions/qpDhYv1Y/morechathistory-2.0.0.jar"
+  },
+  {
+    "name": "moreculling-fabric-26.2-1.8.1.jar",
+    "sha1": "189d90ef598883df8197ea18b510dba21e69bac4",
+    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/D5oVCouK/moreculling-fabric-26.2-1.8.1.jar"
+  },
+  {
+    "name": "NoChatReports-FABRIC-26.2-v2.20.2.jar",
+    "sha1": "680b60f6ec5c09a646e7a76bb17cf551608051cd",
+    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/aDbxaVTi/NoChatReports-FABRIC-26.2-v2.20.2.jar"
+  },
+  {
+    "name": "optigui-2.3.0-beta.10+26.2.jar",
+    "sha1": "5f83a64181e374222e28815dd95a5cedc902667d",
+    "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/FC0X8ap5/optigui-2.3.0-beta.10%2B26.2.jar"
+  },
+  {
+    "name": "paginatedadvancements-2.8.0+26.2.jar",
+    "sha1": "81d503aaa174e0cf1bf8c350dfded5c640ca2aa1",
+    "url": "https://cdn.modrinth.com/data/pJogNFap/versions/Ra3zz0eG/paginatedadvancements-2.8.0%2B26.2.jar"
+  },
+  {
+    "name": "placeholder-api-3.1.0-beta.1+26.2.jar",
+    "sha1": "99b57ccc1d4323c4ef71887828dac25ce4ce2103",
+    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar"
+  },
+  {
+    "name": "polytone-26.2-6.8.6-fabric.jar",
+    "sha1": "d655a21b62c72d525998bcc8867a1d713b6af7b9",
+    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/nGj7e92E/polytone-26.2-6.8.6-fabric.jar"
+  },
+  {
+    "name": "puzzle-fabric-2.3.1+26.2.jar",
+    "sha1": "17888efe8c7f9f930f91696cfb25b1317fc4910f",
+    "url": "https://cdn.modrinth.com/data/3IuO68q1/versions/O8oBjnDH/puzzle-fabric-2.3.1%2B26.2.jar"
+  },
+  {
+    "name": "reeses-sodium-options-fabric-2.2.4+mc26.2.jar",
+    "sha1": "2afa030032453550d89ccdf1f235f85c0166568d",
+    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/nnz8j4Hu/reeses-sodium-options-fabric-2.2.4%2Bmc26.2.jar"
+  },
+  {
+    "name": "renice-shot-1.2.1+mc26.2.jar",
+    "sha1": "19daa73d9aab0d032eebe0ecaa5b4d684eea0882",
+    "url": "https://cdn.modrinth.com/data/ZDCwiIc3/versions/roOTvshj/renice-shot-1.2.1%2Bmc26.2.jar"
+  },
+  {
+    "name": "rrls-5.2.8+mc.26.2.jar",
+    "sha1": "b74544c874a3b679acad16a31e34bb23443a5357",
+    "url": "https://cdn.modrinth.com/data/ZP7xHXtw/versions/DVwuMj1w/rrls-5.2.8%2Bmc.26.2.jar"
+  },
+  {
+    "name": "skyboxify-3.4+26.2-fabric.jar",
+    "sha1": "920db8c64dfa4ed85c823b0cd2ef52722f64ae22",
+    "url": "https://cdn.modrinth.com/data/DWuwk8aA/versions/XPGqw2i5/skyboxify-3.4%2B26.2-fabric.jar"
+  },
+  {
+    "name": "sodium-extra-fabric-0.9.5+mc26.2.jar",
+    "sha1": "ac099861fd861f5de2b62501f9c3c07ee81c5046",
+    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/GJjGKm2A/sodium-extra-fabric-0.9.5%2Bmc26.2.jar"
+  },
+  {
+    "name": "sodium-fabric-0.9.2+mc26.2.jar",
+    "sha1": "62a70961a5b3e06938e06ab5f2dc4c5a51cf3323",
+    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/xJZxADzI/sodium-fabric-0.9.2%2Bmc26.2.jar"
+  },
+  {
+    "name": "sodium-shadowy-path-blocks-fabric-7.0.0.jar",
+    "sha1": "1399156a64c7bfbc38fa21af935495cfb74923c3",
+    "url": "https://cdn.modrinth.com/data/EIa1eiMm/versions/ygm51jhU/sodium-shadowy-path-blocks-fabric-7.0.0.jar"
+  },
+  {
+    "name": "UniversalEnchantmentInfo-26.2-fabric-1.5.0.jar",
+    "sha1": "d1e573a9c0b8a0a6e490fe9b9c8fd6ec109e1c05",
+    "url": "https://cdn.modrinth.com/data/c39iXKSf/versions/IConC5dY/UniversalEnchantmentInfo-26.2-fabric-1.5.0.jar"
+  },
+  {
+    "name": "xaerominimap-fabric-26.2-26.6.2.jar",
+    "sha1": "6b3cb6ee2752e0bd318c46055c865be73163db0a",
+    "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/kYWdcLLn/xaerominimap-fabric-26.2-26.6.2.jar"
+  },
+  {
+    "name": "xaeroworldmap-fabric-26.2-1.47.2.jar",
+    "sha1": "259b747c39c61df1ad96f6c4caefa9934cb6aaa5",
+    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/W8qSt5Gs/xaeroworldmap-fabric-26.2-1.47.2.jar"
+  },
+  {
+    "name": "xmmp-1.2.4+26.2-fabric.jar",
+    "sha1": "89a95519e4adc698690d350cda98e1072b907e7f",
+    "url": "https://cdn.modrinth.com/data/stTaMuWa/versions/Nt0Yoefe/xmmp-1.2.4%2B26.2-fabric.jar"
+  },
+  {
+    "name": "yet_another_config_lib_v3-3.9.7+26.2-fabric.jar",
+    "sha1": "79c8ee7f8a0e775190dfff59be1e505e2f432998",
+    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/DoR7RYgi/yet_another_config_lib_v3-3.9.7%2B26.2-fabric.jar"
+  },
+  {
+    "name": "zoomify-2.17.0+mc26.2-universal.jar",
+    "sha1": "e357d25ee231b6da05393f96baa2b8d76439565a",
+    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/D64cvU6G/zoomify-2.17.0%2Bmc26.2-universal.jar"
+  }
+]
