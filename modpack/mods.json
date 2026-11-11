@@ -5,6 +5,16 @@
     "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/SjuTFuhz/animatica-0.6.3%2B26.2.jar"
   },
   {
+    "name": "appleskin-fabric-mc26.2-3.0.10.jar",
+    "sha1": "03a635bae2c5a5e66825a35ff130242752054b32",
+    "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uo5bAN1Y/appleskin-fabric-mc26.2-3.0.10.jar"
+  },
+  {
+    "name": "BadOptimizations-2.4.1-26.2-fabric.jar",
+    "sha1": "b36b001f869d04245523807d9ccb26a085f243b4",
+    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/JmPs4Wie/BadOptimizations-2.4.1-26.2-fabric.jar"
+  },
+  {
     "name": "bbe-fabric-1.3.9+mc26.2-mod.jar",
     "sha1": "5702ea1a0017c1d8c5da399a4ff333aef9b9720f",
     "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/n5mL5flA/bbe-fabric-1.3.9%2Bmc26.2-mod.jar"
@@ -43,6 +53,11 @@
     "name": "controlify-3.5.3+mc26.2-universal.jar",
     "sha1": "52a9beb9f9782690f1170f2e72e1764fe3f82199",
     "url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/VDw4mGkG/controlify-3.5.3%2Bmc26.2-universal.jar"
+  },
+  {
+    "name": "Controlling-fabric-26.2-26.2.4.jar",
+    "sha1": "fb95a0c2ef8aad5c5f846aabfca11d86fa4d527f",
+    "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/sZHXONgm/Controlling-fabric-26.2-26.2.4.jar"
   },
   {
     "name": "CrashAssistant-fabric-26.2-26.3-1.11.14.jar",
@@ -205,6 +220,11 @@
     "url": "https://cdn.modrinth.com/data/51shyZVL/versions/D5oVCouK/moreculling-fabric-26.2-1.8.1.jar"
   },
   {
+    "name": "MouseTweaks-fabric-mc26.2-2.31.jar",
+    "sha1": "ad5b7e4ad6dc734152d41f05902b65aedb448d64",
+    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/jOiTBIaB/MouseTweaks-fabric-mc26.2-2.31.jar"
+  },
+  {
     "name": "NoChatReports-FABRIC-26.2-v2.20.2.jar",
     "sha1": "680b60f6ec5c09a646e7a76bb17cf551608051cd",
     "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/aDbxaVTi/NoChatReports-FABRIC-26.2-v2.20.2.jar"
@@ -248,6 +268,11 @@
     "name": "rrls-5.2.8+mc.26.2.jar",
     "sha1": "b74544c874a3b679acad16a31e34bb23443a5357",
     "url": "https://cdn.modrinth.com/data/ZP7xHXtw/versions/DVwuMj1w/rrls-5.2.8%2Bmc.26.2.jar"
+  },
+  {
+    "name": "Searchables-fabric-26.2-1.0.1.jar",
+    "sha1": "73c1917f4ff056254c95f50a5acb18d16384139a",
+    "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/bvFby61J/Searchables-fabric-26.2-1.0.1.jar"
   },
   {
     "name": "skyboxify-3.4+26.2-fabric.jar",
