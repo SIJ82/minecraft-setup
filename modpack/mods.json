@@ -35,6 +35,16 @@
     "url": "https://cdn.modrinth.com/data/orXAsira/versions/Puw7YiUS/cape-provider-5.5.1.jar"
   },
   {
+    "name": "carryon-fabric-26.2-2.11.2.jar",
+    "sha1": "3dbc5f73ccbaec35dbca4c07b731998938a5b09c",
+    "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/fuV8BHlz/carryon-fabric-26.2-2.11.2.jar"
+  },
+  {
+    "name": "chat_heads-1.3.2-fabric-26.1.jar",
+    "sha1": "5f57f341125ec6d5795fc4d60a20b6970b51a22e",
+    "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/rsO6BV1x/chat_heads-1.3.2-fabric-26.1.jar"
+  },
+  {
     "name": "cloth-config-26.2.155.jar",
     "sha1": "babcf16dbd15e09d326e21ffe85ab3f7d843ef9e",
     "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar"
@@ -85,6 +95,11 @@
     "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/RNDvrMAd/e4mc-fabric-6.2.3-modern.jar"
   },
   {
+    "name": "emotecraft-for-MC26.2-3.4.0-b.build.178.jar",
+    "sha1": "fe526629a0578b84c01bb298991d861d55016de8",
+    "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/w8IkxIFf/emotecraft-for-MC26.2-3.4.0-b.build.178.jar"
+  },
+  {
     "name": "entityculling-fabric-1.11.3-mc26.2.jar",
     "sha1": "a2210d12bdeac78daf7bb2fdc6b5d85448642cdf",
     "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/uXe0pIaz/entityculling-fabric-1.11.3-mc26.2.jar"
@@ -123,6 +138,11 @@
     "name": "ImmediatelyFast-Fabric-1.16.5+26.2.jar",
     "sha1": "0286260261591fe77ba0d332d5d5a2d2e868c2c6",
     "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/pMWERcSu/ImmediatelyFast-Fabric-1.16.5%2B26.2.jar"
+  },
+  {
+    "name": "InventoryProfilesNext-fabric-26.2-2.3.8.jar",
+    "sha1": "012d82375e3d5166df70fbfbcaa5726ef890648d",
+    "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/oQFRysLk/InventoryProfilesNext-fabric-26.2-2.3.8.jar"
   },
   {
     "name": "iris-fabric-1.11.4+mc26.2.jar",
@@ -178,6 +198,11 @@
     "name": "language-reload-1.7.8+26.2.jar",
     "sha1": "3d5a85a0804aef395d3dffb0ee69acf634f4464c",
     "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/doGx6rSt/language-reload-1.7.8%2B26.2.jar"
+  },
+  {
+    "name": "libIPN-fabric-26.2-6.9.0.jar",
+    "sha1": "5cbc4674b91bc5e9a51623acdba22a7a9c990db8",
+    "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/gCGiN7gp/libIPN-fabric-26.2-6.9.0.jar"
   },
   {
     "name": "lithium-fabric-0.25.3+mc26.2.jar",
@@ -240,6 +265,11 @@
     "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar"
   },
   {
+    "name": "PlayerAnimationLibMerged-1.2.9+mc.26.2.jar",
+    "sha1": "953032aa2095cb67e06a8cc002b17169e746e2a6",
+    "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/HehiWi0E/PlayerAnimationLibMerged-1.2.9%2Bmc.26.2.jar"
+  },
+  {
     "name": "polytone-26.2-6.8.6-fabric.jar",
     "sha1": "d655a21b62c72d525998bcc8867a1d713b6af7b9",
     "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/nGj7e92E/polytone-26.2-6.8.6-fabric.jar"
@@ -288,6 +318,11 @@
     "name": "sodium-shadowy-path-blocks-fabric-7.0.0.jar",
     "sha1": "1399156a64c7bfbc38fa21af935495cfb74923c3",
     "url": "https://cdn.modrinth.com/data/EIa1eiMm/versions/ygm51jhU/sodium-shadowy-path-blocks-fabric-7.0.0.jar"
+  },
+  {
+    "name": "trade-cycling-fabric-1.0.23+26.2.jar",
+    "sha1": "312b12660fd967c89511866aa352d637d6505bd0",
+    "url": "https://cdn.modrinth.com/data/qpPoAL6m/versions/TtF324s9/trade-cycling-fabric-1.0.23%2B26.2.jar"
   },
   {
     "name": "UniversalEnchantmentInfo-26.2-fabric-1.5.0.jar",
