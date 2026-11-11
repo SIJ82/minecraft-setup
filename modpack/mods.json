@@ -85,16 +85,6 @@
     "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/RNDvrMAd/e4mc-fabric-6.2.3-modern.jar"
   },
   {
-    "name": "entity_model_features-3.3.12-26.2-fabric.jar",
-    "sha1": "34747e7aaf3b0b9f5b9edc3b9fd57fa0b545b531",
-    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/hyDf8pNd/entity_model_features-3.3.12-26.2-fabric.jar"
-  },
-  {
-    "name": "entity_texture_features-7.2.6-26.2-fabric.jar",
-    "sha1": "83e1ae7d1fdd64ce3dee8cd25c1cdee6b6d6570d",
-    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/p667cMa5/entity_texture_features-7.2.6-26.2-fabric.jar"
-  },
-  {
     "name": "entityculling-fabric-1.11.3-mc26.2.jar",
     "sha1": "a2210d12bdeac78daf7bb2fdc6b5d85448642cdf",
     "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/uXe0pIaz/entityculling-fabric-1.11.3-mc26.2.jar"
