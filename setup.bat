@@ -38,9 +38,16 @@ where winget >nul 2>&1 || (
 
 call :pkg EclipseAdoptium.Temurin.25.JDK "Java Temurin 25"
 call :polymc
+call :pkg Git.Git "Git"
 
 rem --- Ricarica PATH dal registro (winget non aggiorna la sessione corrente) ---
 for /f "delims=" %%p in ('powershell -NoProfile -Command "$ProgressPreference='SilentlyContinue'; [Environment]::GetEnvironmentVariable('Path','Machine')+';'+[Environment]::GetEnvironmentVariable('Path','User')"') do set "PATH=%%p"
+
+where git >nul 2>&1 || (
+    echo [X] Git non trovato nel PATH.
+    goto :end
+)
+echo [OK] Git trovato nel PATH.
 
 call :checkjava && goto :ok
 
