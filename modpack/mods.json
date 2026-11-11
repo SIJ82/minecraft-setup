@@ -215,6 +215,16 @@
     "url": "https://cdn.modrinth.com/data/qJDfP7WN/versions/swCvQBI6/main-menu-credits-1.4.0%2B26.2-universal.jar"
   },
   {
+    "name": "mezz_config-26.2-fabric-0.7.1.jar",
+    "sha1": "555aa3845647eb655b767e031803876f4d0dcac3",
+    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/635tQHQK/mezz_config-26.2-fabric-0.7.1.jar"
+  },
+  {
+    "name": "mezz_config_gui-26.2-fabric-mc26.2-0.5.10.jar",
+    "sha1": "ab4e75908511284d183ec2d37fbdc972b719cb7a",
+    "url": "https://cdn.modrinth.com/data/BOHUKqOz/versions/GKU4dbVS/mezz_config_gui-26.2-fabric-mc26.2-0.5.10.jar"
+  },
+  {
     "name": "mixintrace-1.0-26.1-universal.jar",
     "sha1": "3b270bf23ffec81086c23a78dd473608640b0a96",
     "url": "https://cdn.modrinth.com/data/Ok6FyXJ9/versions/j3SeQVjR/mixintrace-1.0-26.1-universal.jar"
