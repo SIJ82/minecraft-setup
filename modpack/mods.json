@@ -150,9 +150,9 @@
     "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/pMWERcSu/ImmediatelyFast-Fabric-1.16.5%2B26.2.jar"
   },
   {
-    "name": "InventoryProfilesNext-fabric-26.2-2.3.8.jar",
-    "sha1": "012d82375e3d5166df70fbfbcaa5726ef890648d",
-    "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/oQFRysLk/InventoryProfilesNext-fabric-26.2-2.3.8.jar"
+    "name": "inventorysorter-fabric-3.0.1+mc26.2.jar",
+    "sha1": "0062fecf459de9e8d87ef0d9802727dab1cd3045",
+    "url": "https://cdn.modrinth.com/data/5ibSyLAz/versions/D6W3Lrmj/inventorysorter-fabric-3.0.1%2Bmc26.2.jar"
   },
   {
     "name": "iris-fabric-1.11.4+mc26.2.jar",
@@ -208,11 +208,6 @@
     "name": "language-reload-1.7.8+26.2.jar",
     "sha1": "3d5a85a0804aef395d3dffb0ee69acf634f4464c",
     "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/doGx6rSt/language-reload-1.7.8%2B26.2.jar"
-  },
-  {
-    "name": "libIPN-fabric-26.2-6.9.0.jar",
-    "sha1": "5cbc4674b91bc5e9a51623acdba22a7a9c990db8",
-    "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/gCGiN7gp/libIPN-fabric-26.2-6.9.0.jar"
   },
   {
     "name": "lithium-fabric-0.25.3+mc26.2.jar",
