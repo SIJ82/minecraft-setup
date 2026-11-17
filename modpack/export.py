@@ -2,9 +2,11 @@
 """Rigenera mods.json e mmc-pack.json dall'istanza PolyMC locale.
 
 Uso: python3 export.py ~/.local/share/PolyMC/instances/<istanza>
-Tutte le mod devono essere su Modrinth (i jar non vanno nel repo: licenze).
+Le mod si scaricano da Modrinth (i jar non vanno nel repo: licenze). Quelle che
+non ci sono (o modificate) vanno caricate a mano, se la licenza lo permette,
+nella release `mods`: gh release upload mods <jar> --clobber
 """
-import hashlib, json, shutil, sys, urllib.request
+import hashlib, json, shutil, sys, urllib.parse, urllib.request
 from pathlib import Path
 
 inst = Path(sys.argv[1]).expanduser()
@@ -18,6 +20,7 @@ req = urllib.request.Request(
     headers={'Content-Type': 'application/json', 'User-Agent': 'minecraft-setup-export'})
 versions = json.load(urllib.request.urlopen(req))
 
+RELEASE = 'https://github.com/SIJ82/minecraft-setup/releases/download/mods/'
 mods, missing = [], []
 for h, name in sha1.items():
     v = versions.get(h)
@@ -25,9 +28,10 @@ for h, name in sha1.items():
     if f:
         mods.append({'name': name, 'sha1': h, 'url': f['url']})
     else:
+        mods.append({'name': name, 'sha1': h, 'url': RELEASE + urllib.parse.quote(name)})
         missing.append(name)
 if missing:
-    sys.exit('Non trovate su Modrinth: ' + ', '.join(missing))
+    print('Non su Modrinth, devono stare nella release mods:', ', '.join(missing))
 
 mods.sort(key=lambda m: m['name'].lower())
 (here / 'mods.json').write_text(json.dumps(mods, indent=2) + '\n')
