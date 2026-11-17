@@ -295,6 +295,11 @@
     "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/nGj7e92E/polytone-26.2-6.8.6-fabric.jar"
   },
   {
+    "name": "pooltable-fabric-26-1.7.1.jar",
+    "sha1": "0d2fde6f4ba11b825592d18bc56fa956f3bc1e90",
+    "url": "https://github.com/SIJ82/minecraft-setup/releases/download/mods/pooltable-fabric-26-1.7.1.jar"
+  },
+  {
     "name": "puzzle-fabric-2.3.1+26.2.jar",
     "sha1": "17888efe8c7f9f930f91696cfb25b1317fc4910f",
     "url": "https://cdn.modrinth.com/data/3IuO68q1/versions/O8oBjnDH/puzzle-fabric-2.3.1%2B26.2.jar"
